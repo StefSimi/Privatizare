@@ -1,0 +1,10 @@
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\bin\Debug\Privatizare.exe.config
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\bin\Debug\Privatizare.exe
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\bin\Debug\Privatizare.pdb
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.Form1.resources
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.Properties.Resources.resources
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.exe
+C:\Users\Stefan\source\repos\Privatizare\Privatizare\obj\Debug\Privatizare.pdb
